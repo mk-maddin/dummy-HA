@@ -1,0 +1,8 @@
+{
+  "domain": "dummy",
+  "name": "dummy component",
+  "documentation": "https://www.home-assistant.io/components/dummy",
+  "dependencies": ["light","cover","switch","demo"],
+  "codeowners": ["@mk-maddin"],
+  "requirements": []
+}
