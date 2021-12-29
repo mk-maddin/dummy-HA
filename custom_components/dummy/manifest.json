@@ -1,8 +1,9 @@
 {
   "domain": "dummy",
   "name": "dummy component",
-  "documentation": "https://www.home-assistant.io/components/dummy",
+  "documentation": "www.home-assistant.io/integrations/dummy",
   "dependencies": ["light","cover","switch","demo"],
   "codeowners": ["@mk-maddin"],
-  "requirements": []
+  "requirements": [],
+  "iot_class": "calculated"
 }
