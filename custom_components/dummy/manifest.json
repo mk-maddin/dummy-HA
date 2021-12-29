@@ -1,7 +1,7 @@
 {
   "domain": "dummy",
   "name": "dummy component",
-  "documentation": "www.home-assistant.io/integrations/dummy",
+  "documentation": "https://www.home-assistant.io/integrations/dummy",
   "version": "1.2",
   "dependencies": ["light","cover","switch","demo"],
   "codeowners": ["@mk-maddin"],
