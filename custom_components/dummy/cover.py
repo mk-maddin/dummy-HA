@@ -9,7 +9,6 @@ from homeassistant.components.cover import (
     ATTR_TILT_POSITION,
     SUPPORT_CLOSE,
     SUPPORT_OPEN,
-    CoverDevice,
 )
 from homeassistant.components.demo.cover import DemoCover
 

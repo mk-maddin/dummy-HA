@@ -3,19 +3,6 @@ import logging
 import random
 
 ## DemoLight class
-from homeassistant.components.light import (
-    ATTR_BRIGHTNESS,
-    ATTR_COLOR_TEMP,
-    ATTR_EFFECT,
-    ATTR_HS_COLOR,
-    ATTR_WHITE_VALUE,
-    SUPPORT_BRIGHTNESS,
-    SUPPORT_COLOR,
-    SUPPORT_COLOR_TEMP,
-    SUPPORT_EFFECT,
-    SUPPORT_WHITE_VALUE,
-    Light,
-)
 from homeassistant.components.demo.light import DemoLight
 
 from homeassistant.const import (

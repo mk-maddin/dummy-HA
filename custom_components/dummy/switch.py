@@ -2,7 +2,6 @@
 import logging
 
 ## DemoSwitch class
-from homeassistant.components.switch import SwitchDevice
 from homeassistant.const import DEVICE_DEFAULT_NAME
 from homeassistant.components.demo.switch import DemoSwitch
 
