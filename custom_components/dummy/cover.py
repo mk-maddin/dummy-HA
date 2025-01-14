@@ -4,12 +4,6 @@ import random
 
 ## DemoCover class
 from homeassistant.helpers.event import track_utc_time_change
-from homeassistant.components.cover import (
-    ATTR_POSITION,
-    ATTR_TILT_POSITION,
-    SUPPORT_CLOSE,
-    SUPPORT_OPEN,
-)
 from homeassistant.components.demo.cover import DemoCover
 
 from homeassistant.const import (
